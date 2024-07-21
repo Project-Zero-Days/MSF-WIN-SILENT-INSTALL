@@ -1,7 +1,4 @@
-# Metasploit Framework 
-## Silent Install
-### Windows
-#### PowerShell
+# Metasploit Framework - Silent Install - Windows - PowerShell
 # 
 # 
 # 
